@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kautubh01" alt="kautubh01" /></p>
 
 Support 🙏
-Are you using the tool and happy with it to create your Git
+
 
